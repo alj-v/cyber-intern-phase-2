@@ -15,7 +15,7 @@
 |Status| Task No. | Description |
 |------|----------|-------------|
 ✅| 1 | Suspicious ZIP or RAR File Download |
-|| 2 | Malicious PowerShell Execution |
+✅| 2 | Malicious PowerShell Execution |
 || 3 | Credential Dumping Detection |
 || 4 | External Beaconing / C2 Simulation |
 || 5 | Privilege Escalation (User → Admin) |
