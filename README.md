@@ -17,7 +17,7 @@
 ✅| 1 | Suspicious ZIP or RAR File Download |
 ✅| 2 | Malicious PowerShell Execution |
 ✅| 3 | Credential Dumping Detection |
-|| 4 | External Beaconing / C2 Simulation |
+✅| 4 | External Beaconing / C2 Simulation |
 || 5 | Privilege Escalation (User → Admin) |
 || 6 | Unauthorized RDP Access |
 || 7 | Vulnerability Scan Simulation |
