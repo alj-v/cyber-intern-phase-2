@@ -18,7 +18,7 @@
 ✅| 2 | Malicious PowerShell Execution |
 ✅| 3 | Credential Dumping Detection |
 ✅| 4 | External Beaconing / C2 Simulation |
-|| 5 | Privilege Escalation (User → Admin) |
+✅| 5 | Privilege Escalation (User → Admin) |
 || 6 | Unauthorized RDP Access |
 || 7 | Vulnerability Scan Simulation |
 || 8 | Lateral Movement Simulation |
