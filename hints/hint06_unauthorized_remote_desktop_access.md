@@ -1,4 +1,4 @@
-# Hint 06 - Unauthorized Remote Desktop Access
+# Task 6 - Unauthorized Remote Desktop Access
 
 ## ✅Simulated Activity:
 > Attempt an RDP login from a different IP within your LAN or VM setup.  
