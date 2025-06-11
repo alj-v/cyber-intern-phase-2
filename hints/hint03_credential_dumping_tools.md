@@ -1,4 +1,4 @@
-# Credential Dumping Detection
+# Task 3 - Credential Dumping Detection
 
 ## ✅Simulated Activity:
 Simulate use of a credential dumping tool (Mimikatz) and observe how system defenses and SIEM respond.
