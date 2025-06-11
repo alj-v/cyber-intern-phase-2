@@ -20,7 +20,7 @@
 ✅| 4 | External Beaconing / C2 Simulation |
 ✅| 5 | Privilege Escalation (User → Admin) |
 ✅| 6 | Unauthorized RDP Access |
-|| 7 | Vulnerability Scan Simulation |
+✅| 7 | Vulnerability Scan Simulation |
 || 8 | Lateral Movement Simulation |
 || 9 | Execution of Password-Protected Archive |
 || 10 | Reverse Shell Simulation |
