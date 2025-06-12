@@ -6,8 +6,8 @@ Simulated execution of a potentially malicious executable bundled inside a passw
 ---
 
 ## Setup
-- **Kali Linux IP**: 192.168.1.40
-- **Windows 10 IP**: 192.168.1.42
+- **Kali Linux**
+- **Windows 10**
 - **Wazuh Agent** installed and connected
 - **Sysmon** installed with XML config
 
