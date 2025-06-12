@@ -2,8 +2,8 @@
 
 **Internship Duration:** 3 Weeks  
 **Phase:** 2  
-**Focus:** Simulating real-world attacks and detecting them using Sysmon and Wazuh SIEM
-**Status:** Completed
+**Focus:** Simulating real-world attacks and detecting them using Sysmon and Wazuh SIEM  
+**Status:** Completed  
 **Machine Setup:**  
 - 🧠 Windows 10 VM (Victim)  
 - 🐉 Kali Linux VM (Attacker)  
