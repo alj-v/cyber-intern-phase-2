@@ -72,10 +72,6 @@ python3 -m http.server 8080
   - Parent Process: `explorer.exe`
 ![](https://github.com/alj-v/cyber-intern-phase-2/blob/main/screenshots/hint08_malicious_file_executed_sysmon_log.png)
 
-### Wazuh Dashboard
-- Under **Sysmon → Event ID 1**
-- Log showing `.exe` execution
-
 ---
 
 ## Detection Notes
