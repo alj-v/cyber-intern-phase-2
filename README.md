@@ -1,8 +1,9 @@
 # 🛡️Cybersecurity Internship - Phase 2 (Attack Simulation)
 
-**Internship Duration:** 6 Weeks  
+**Internship Duration:** 3 Weeks  
 **Phase:** 2  
-**Focus:** Simulating real-world attacks and detecting them using Sysmon and Wazuh SIEM  
+**Focus:** Simulating real-world attacks and detecting them using Sysmon and Wazuh SIEM
+**Status:** Completed
 **Machine Setup:**  
 - 🧠 Windows 10 VM (Victim)  
 - 🐉 Kali Linux VM (Attacker)  
@@ -21,7 +22,7 @@
 ✅| 5 | Privilege Escalation (User → Admin) |
 ✅| 6 | Unauthorized RDP Access |
 ✅| 7 | Vulnerability Scan Simulation |
-|| 8 | Lateral Movement Simulation |
+✅| 8 | Lateral Movement Simulation |
 || 9 | Execution of Password-Protected Archive |
 || 10 | Reverse Shell Simulation |
 
