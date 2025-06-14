@@ -76,4 +76,4 @@ With Phase 2 completed, the project is now ready to progress to **Phase 3**.
 ---
 
 **Report by:** Aleena Joy  
-**LinkedIn:** [Aleena Joy](https://www.linkedin.com/aleenjoyvettiyadan/)
+**LinkedIn:** [Aleena Joy](https://www.linkedin.com/in/aleenjoyvettiyadan/)
